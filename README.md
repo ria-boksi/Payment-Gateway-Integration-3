@@ -1,4 +1,4 @@
-# Payment-Gateway-Integration-3
+# Payment-Gateway-Integration-#3
 The Sparks Foundation - GRIP - Internship - Task-3
 
 A simple Responsive website where payment gateway is integrated.
